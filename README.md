@@ -1,5 +1,5 @@
 # Chisomloius Website
-My random test of using open source project,  Sparky, to build my (personal website)[www.chisomloius.github.io]
+My random test of using open source project,  Sparky, to build my [personal website](www.chisomloius.github.io)
 
 ## Introduction
 Sparky Portfolio is an open source responsive website project of a simple yet beautiful portfolio/personal site. It's under the MIT License. Build your personal site in twelve hours or less !
