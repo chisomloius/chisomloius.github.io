@@ -1,5 +1,5 @@
 # Chisomloius Website
-My random test of using open source project,  Sparky, to build a  personal website.
+My random test of using open source project,  Sparky, to build my (personal website)[www.chisomloius.github.io]
 
 ## Introduction
 Sparky Portfolio is an open source responsive website project of a simple yet beautiful portfolio/personal site. It's under the MIT License. Build your personal site in twelve hours or less !
@@ -42,9 +42,9 @@ You can use the github website hosting service by following this four steps:
 - t
 
   ### Option B:
-You can us the (.ml)[ domain: it is free and renewable, you can learn more (here)[https://my.freenom.com/]. Regarding the hosting, you have a lot of potential options, but my advice is to use Firebase:
+You can us the (.ml) domain: it is free and renewable, you can learn more [here](https://my.freenom.com/). Regarding the hosting, you have a lot of potential options, but my advice is to use Firebase:
 
-- First thing first, (sign up or login([https://firebase.google.com/].
+- First thing first, [sign up or login](https://firebase.google.com/).
 - Click on go to console.
 - Start a new project.
 - Open your new project and click on hosting.
