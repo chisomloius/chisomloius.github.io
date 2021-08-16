@@ -20,7 +20,7 @@ So I built a small site, starting from some libraries and templates, trying to c
   [-] Cleanup
   [-] Code comments
 
-Since this is my personal site, you have to replace some assets and configure the layout to your liking.
+Since this is my personal site, you will have to replace some assets and configure the layout to your liking.
 
 - Clone the repository to your machine, or simply download as a zip and unzip it.
 - The "core" of the site is the index.html file: here you will find the page layout.
@@ -42,13 +42,14 @@ You can use the github website hosting service by following this four steps:
 - t
 
   ### Option B:
-You can us the .ml domain: it is free and renewable, you can learn more here. Regarding the hosting, you have a lot of potential options, but my advice is to use Firebase:
+You can us the (.ml)[ domain: it is free and renewable, you can learn more (here)[https://my.freenom.com/]. Regarding the hosting, you have a lot of potential options, but my advice is to use Firebase:
 
-- First thing first, sign up or login.
+- First thing first, (sign up or login([https://firebase.google.com/].
 - Click on go to console.
 - Start a new project.
 - Open your new project and click on hosting.
 - Now connect your personalized domain to the Firebase one.
 - Firebase is perfect for this kind of sites, in my opinion.
+
 ## Acknowledgment
 Special shoutout to @m-i-n-a-r for allowing me clone his repo and improve on it.
